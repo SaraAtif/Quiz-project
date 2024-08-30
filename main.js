@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.bold.magenta("\n\t wellcome to Quiz about typescript by SARA ATIF\n"));
